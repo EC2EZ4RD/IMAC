@@ -1,4 +1,4 @@
-# NIPS #3584 Source Code
+# Learning Efficient Multi-agent Communication: An Information Bottleneck Approach
 
 This is the code for implementing of NIPS #3584 paper.
 
